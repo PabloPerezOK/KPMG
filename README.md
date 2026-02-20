@@ -96,3 +96,8 @@ El *Dashboard* permite al equipo directivo identificar instantáneamente los cue
 1. Clona este repositorio en tu entorno local:
    ```bash
    git clone [https://github.com/tu-usuario/auditoria-soporte-absa.git](https://github.com/tu-usuario/auditoria-soporte-absa.git)
+2. Ejecuta el script generador_datos.py (ubicado en la carpeta /scripts) para generar los archivos CSV actualizados.
+
+3. Abri el archivo Auditoria_Soporte.pbix con Power BI Desktop.
+
+4. Actualiza las fuentes de datos apuntando a la carpeta local donde se generaron los CSV.
